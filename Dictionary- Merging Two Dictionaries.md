@@ -1,4 +1,4 @@
-## Dictionary Operations in Python: Merging Two Dictionaries
+# Dictionary Operations in Python: Merging Two Dictionaries
 
 ## 🎯 Aim:
 
